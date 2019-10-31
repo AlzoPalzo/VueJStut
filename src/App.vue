@@ -74,5 +74,6 @@ export default {
 
   .small-container {
     max-width: 680px;
+    
   }
 </style>
